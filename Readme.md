@@ -24,8 +24,7 @@ Developed an interactive Project Management Dashboard in Power BI to monitor pro
 - Average Duration
 
 ## Dashboard Preview
-(Dashboard_Screenshot.png.png)
-
+![Project Management Dashboard](Dashboard_Screenshot.png.png)
 ## Dataset
 Synthetic project management dataset containing:
 - Project ID
